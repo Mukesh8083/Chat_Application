@@ -6,15 +6,15 @@ This is a real-time chat app built using ReactJS, NodeJS, ExpressJS, MongoDB, So
 
 ## Features
 
-💬 Real-time Messaging: Enable instant communication with WebSocket or Socket.IO.  
-🔑 Authentication System: Implement secure user signup and login with JWT.  
-👤 User Profiles: Allow users to set profile pictures.  
-📡 Online/Offline Status: Show real-time presence of users.  
-📄 Chat History Persistence: Store and retrieve messages using MongoDB.  
-👥 Group Chat: Support creation and management of group conversations.  
-🎨 Responsive UI/UX Design: Build with Tailwind CSS and DaisyUI.  
-🔐 End-to-End Security: Use bcrypt for password encryption.  
-📂 File Sharing: Allow users to send images.  
+--> Real-time Messaging: Enable instant communication with WebSocket or Socket.IO.  
+--> Authentication System: Implement secure user signup and login with JWT.  
+--> User Profiles: Allow users to set profile pictures.  
+--> Online/Offline Status: Show real-time presence of users.  
+--> Chat History Persistence: Store and retrieve messages using MongoDB.  
+--> Group Chat: Support creation and management of group conversations.  
+--> Responsive UI/UX Design: Build with Tailwind CSS and DaisyUI.  
+--> End-to-End Security: Use bcrypt for password encryption.  
+--> File Sharing: Allow users to send images.  
 
 ## Getting Started
 
